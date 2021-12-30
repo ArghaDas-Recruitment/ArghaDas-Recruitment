@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArghaDas-Recruitment
 - 👀 I’m interested in "Hiring Good Talent"
 - 🌱 I’m currently learning recruitment strategies in hrm , New IT Tech 
-- 💞️ I’m looking to collaborate on LinkedIn with Developers
+- 💞️ I’m looking to collaborate with Passionate Developers. 
 - 📫 How to reach me argha.das@codeclouds.in
 
 <!---
