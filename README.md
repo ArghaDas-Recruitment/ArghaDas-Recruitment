@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArghaDas-Recruitment
-- 👀 I’m interested in "Hiring Good Talent"
-- 🌱 I’m currently learning recruitment strategies in hrm , New IT Tech Stck
+- 👀 I’m interested in "Hiring Right Talent"
+- 🌱 I’m currently learning recruitment strategies in hrm , New Technology Stck
 - 💞️ I’m looking to collaborate with Passionate Developers. 
 - 📫 How to reach me argha.d@codeclouds.com
 
